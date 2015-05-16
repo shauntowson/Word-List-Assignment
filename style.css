@@ -1,0 +1,31 @@
+.container {
+	background-color: #AEC6CF;
+	border: 3px solid black;
+	border-radius: 20px;
+	margin: 10px;
+}
+
+.title {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.output-panel {
+	text-align: center;
+	background-color: #FF6961;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+.output-panel h4 {
+	border-bottom: 2px solid black;
+}
+
+.output-panel textarea {
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
