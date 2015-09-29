@@ -1,3 +1,3 @@
-# Project Name
+# Word-List Application
 
 TODO: Write a project description
