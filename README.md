@@ -1,5 +1,7 @@
 # Word-List Application
 
+### The Problem
+
 ##### I was given the following problem to solve by a company a family member of mine belongs to:
 
 Write a program with a simple UI (in C#, Delphi or Java) that calls a procedure which takes four parameters as follows:
